@@ -10,7 +10,7 @@ When play chose an option at the obstacle, the screen will have an educational p
 
 <h2>Tools/Resources Used</h2>
 <li>P5 library, based off Javascript</li>
-<li>[Adafruit CPX](https://www.adafruit.com/product/3333) as the sensor module to power the wheelchair controllers and other physical buttons</li>
+<li>Adafruit CPX as the sensor module to power the wheelchair controllers and other physical buttons</li>
 
 
 <h2>Credits</h2>
