@@ -8,6 +8,11 @@ The other player will be an abled-body friend. When an obsticle is encoutered, t
 such as escorting through or removing the obstacle for the wheelchair users. There are no losing in this game, as the point is to educate the player about the current situation that wheelchair users have to deal with in their daily life.
 When play chose an option at the obstacle, the screen will have an educational piece telling user if this is the best option, along with the explanation of the choice that player made.
 
+<h2>Tools/Resources Used</h2>
+<li>P5 library, based off Javascript</li>
+<li>[Adafruit CPX](https://www.adafruit.com/product/3333) as the sensor module to power the wheelchair controllers and other physical buttons</li>
+
+
 <h2>Credits</h2>
 This game is primarily designed and entirly programmed by Han Feng, as a part of the Prototyping Studio class for the MHCID program at University of Washington. 
 The ideation and physical controller protytping was partnered with Joanne Chang, Roman Meza, and Auzeen Rahgoshay. The project is advised by Professor Jon Froehlich.
